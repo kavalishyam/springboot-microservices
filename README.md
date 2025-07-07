@@ -1,6 +1,6 @@
 # Microservices Demo Project
 
-#### by Alibou (https://aliboucoding.com/courses)
+#### by Shyam
 
 ![alt text](diagram.png)
 
@@ -84,19 +84,7 @@ The project showcases the use of Zipkin for distributed tracing, enhancing appli
 
 ## Contributing
 
-Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-[Ali Bouali] - [contact@aliboucoding.com]
-
-[Website] - [https://aliboucoding.com/courses]
-
-Project Link: https://github.com/ali-bouali/springboot-3-micro-service-demo
+Project Link: https://github.com/kavalishyam/springboot-microservices.git
 
 ## Acknowledgements
 
